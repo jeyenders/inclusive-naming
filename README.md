@@ -22,18 +22,18 @@ The app can be installed at https://github.com/apps/in-solidarity.
 Share this app with one of the following badges.
 
 ```md
-[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-flat.png)](https://github.com/apps/in-solidarity)
+[![](https://github.com/jeyenders/inclusive-naming/raw/main/static//badge-flat.png)](https://github.com/apps/inclusive-naming)
 
-[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-flat-square.png)](https://github.com/apps/in-solidarity)
+[![](https://github.com/jeyenders/inclusive-naming/raw/main/static//badge-flat-square.png)](https://github.com/apps/inclusive-naming)
 
-[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-for-the-badge.png)](https://github.com/apps/in-solidarity)
+[![](https://github.com/jeyenders/inclusive-naming/raw/main/static//badge-for-the-badge.png)](https://github.com/apps/inclusive-naming)
 ```
 
-[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-flat.png)](https://github.com/apps/in-solidarity)
+[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-flat.png)](https://github.com/apps/inclusive-naming)
 
-[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-flat-square.png)](https://github.com/apps/in-solidarity)
+[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-flat-square.png)](https://github.com/apps/inclusive-naming)
 
-[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-for-the-badge.png)](https://github.com/apps/in-solidarity)
+[![](https://github.com/jpoehnelt/in-solidarity-bot/raw/main/static//badge-for-the-badge.png)](https://github.com/apps/inclusive-naming)
 
 ## Documentation
 
